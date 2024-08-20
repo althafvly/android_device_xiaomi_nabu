@@ -355,8 +355,8 @@ PRODUCT_PACKAGES += \
     FrameworkResOverlayNabu
 
 # RemovePackages
-PRODUCT_PACKAGES += \
-    RemovePackages
+# PRODUCT_PACKAGES += \
+#    RemovePackages
 
 # QMI
 PRODUCT_PACKAGES += \
